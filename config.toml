@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = ""
+title = "laurent Pinson"
 
 theme = "hugo-coder"
 
@@ -16,11 +16,11 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Laurent PINSON"
-    description = "John Doe's personal website"
+    description = "Laurent PINSON's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarURL = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    #gravatar = "laurent_pinson@hotmail.com"
     footerContent = "Enter a text here."
 
     dateFormat = "January 2, 2006"
