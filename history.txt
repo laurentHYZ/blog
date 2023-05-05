@@ -1,0 +1,1000 @@
+ 1245  ls
+ 1246  git checkout v0.42.6
+ 1247  make build
+ 1248  sudo make build
+ 1249  go version
+ 1250  ls
+ 1251  cd build
+ 1252  ls
+ 1253  pwd
+ 1254  ls
+ 1255  cd ..
+ 1256  ./simd query bank balances $(./simd keys show b9lab -a)
+ 1257  cd build/
+ 1258  ls
+ 1259  cd ..
+ 1260  ls
+ 1261  pwd
+ 1262  git checkout v0.42.6
+ 1263  make build
+ 1264  sudo make build
+ 1265  go path
+ 1266  go help
+ 1267  go gopath
+ 1268  gopath
+ 1269  go help
+ 1270  go help gopathg
+ 1271  go help gopath
+ 1272  GOPATH
+ 1273  ENV GOPATH
+ 1274  sudo make build
+ 1275  /etc/sudoers > secure_path
+ 1276  sudo /etc/sudoers > secure_path
+ 1277  which go
+ 1278  which etcd
+ 1279  etcd
+ 1280  cd
+ 1281  bat ~/.profile
+ 1282  pwd
+ 1283  nano ~/.profile
+ 1284  pwd
+ 1285  echo $GOROOT
+ 1286  echo $GOPATH
+ 1287  cd ~/go
+ 1288  ls
+ 1289  export GOPATH="$HOME/go"
+ 1290  echo $GOPATH
+ 1291  PATH="$GOPATH/bin:$PATH"
+ 1292  cat main.go
+ 1293  cd
+ 1294  cd cosmos/
+ 1295  ls
+ 1296  cd cosmos-sdk/
+ 1297  history
+ 1298  make build
+ 1299  sudo make build
+ 1300  echo $GOPATH
+ 1301  echo $GOROOT
+ 1302  echo $GOPATH
+ 1303  cd
+ 1304  nano ~/.profile
+ 1305  echo $GOROOT
+ 1306  cd cosmos/cosmos-sdk/
+ 1307  history
+ 1308  echo $GOPATH
+ 1309  nano ~/.profile
+ 1310  echo $GOPATH
+ 1311  cd
+ 1312  rustup target add wasm32-unknown-unknown --toolchain nightly
+ 1313  go install golang.org/x/website/tour@latest
+ 1314  sudo go install golang.org/x/website/tour@latest
+ 1315  whereis go
+ 1316  echo $GOPATH
+ 1317  setenv
+ 1318  echo $GOPATH
+ 1319  goenv
+ 1320  sudo nano ./profile
+ 1321  sudo nano ~/.profile
+ 1322  source ~/.profile
+ 1323  go version
+ 1324  history
+ 1325  sudo go install golang.org/x/website/tour@latest
+ 1326  go install golang.org/x/website/tour@latest
+ 1327  source ~/.profile
+ 1328  sudo nano ~/.profile
+ 1329  source ~/.profile
+ 1330  sudo go install golang.org/x/website/tour@latest
+ 1331  go install golang.org/x/website/tour@latest
+ 1332  go env GOPATH
+ 1333  env|sort|grep "^GO"
+ 1334  go env
+ 1335  echo $GOPATH
+ 1336  cd
+ 1337  cd /usr/local
+ 1338  ls
+ 1339  cd go
+ 1340  ls
+ 1341  cd bin/
+ 1342  ls
+ 1343  cd go
+ 1344  ls
+ 1345  .go
+ 1346  pwd
+ 1347  ls
+ 1348  ./go
+ 1349  ./go version
+ 1350  go
+ 1351  history
+ 1352  nano ~/.profile
+ 1353  cd
+ 1354  sudo gedit .bashrc
+ 1355  go
+ 1356  history
+ 1357  go install golang.org/x/website/tour@latest
+ 1358  sudo go install golang.org/x/website/tour@latest
+ 1359  go version
+ 1360  cd go
+ 1361  ls
+ 1362  ls -als
+ 1363  ls
+ 1364  cd src/
+ 1365  ls
+ 1366  go run github.com/
+ 1367  ls
+ 1368  cd github.com/
+ 1369  ls
+ 1370  cd hyperledger/
+ 1371  ls
+ 1372  cd ..
+ 1373  ls
+ 1374  ls -als
+ 1375  go run hello.go
+ 1376  cd 
+ 1377  nano .profile
+ 1378  nano ~/.bashrc
+ 1379  go env GOPATH
+ 1380  go env
+ 1381  env|sort|grep "^GO"
+ 1382  go env
+ 1383  whereis go
+ 1384  nano /etc/profile
+ 1385  nano ~/.bashrc
+ 1386  cd
+ 1387  nano ~/.profile 
+ 1388  vim ~/.profile 
+ 1389  emacs ~/.profile
+ 1390  emacs /etc/profile
+ 1391  emacs ~/.profile
+ 1392  emacs ~/.bashrc
+ 1393  cd
+ 1394  cd go
+ 1395  ls
+ 1396  mkdir bin
+ 1397  sudo mkdri bin
+ 1398  sudo mkdir bin
+ 1399  ls
+ 1400  cd src/
+ 1401  ls
+ 1402  nano hello.go
+ 1403  ls
+ 1404  rm -r github.com/
+ 1405  n
+ 1406  ls
+ 1407  sudo nano hello.go
+ 1408  ls
+ 1409  sudo mkdir hello
+ 1410  mv hello.go hello
+ 1411  sudo mv hello.go hello
+ 1412  cd ..
+ 1413  ls
+ 1414  cd src
+ 1415  ls
+ 1416  cd hello/
+ 1417  ls
+ 1418  go install
+ 1419  ls
+ 1420  cd ..
+ 1421  ls
+ 1422  ls 
+ 1423  ls
+ 1424  sudo mkdir bin
+ 1425  ls
+ 1426  sudo rm -r hello/
+ 1427  ls
+ 1428  cd ..
+ 1429  ls
+ 1430  cd src/
+ 1431  ls
+ 1432  sudo nano hello.go
+ 1433  ls
+ 1434  cd ..
+ 1435  ls
+ 1436  cd src/
+ 1437  ls
+ 1438  rm -r bin
+ 1439  sudo rm -r bin
+ 1440  ls
+ 1441  sudo mkdir hello
+ 1442  mv hello.go hello
+ 1443  sudo mv hello.go hello
+ 1444  ls
+ 1445  sudo rm -r github.com/
+ 1446  ls
+ 1447  cd ..
+ 1448  ls
+ 1449  cd src/
+ 1450  ls
+ 1451  cd hello/
+ 1452  ls
+ 1453  go install
+ 1454  hello
+ 1455  cd
+ 1456  hello
+ 1457  history
+ 1458  go install golang.org/x/website/tour@latest
+ 1459  sudo go install golang.org/x/website/tour@latest
+ 1460  go
+ 1461  sudo go
+ 1462  go
+ 1463  hello
+ 1464  cd go
+ 1465  ls
+ 1466  cd src/
+ 1467  ls
+ 1468  cd hello/
+ 1469  ls
+ 1470  nano hello.go 
+ 1471  sudo nano hello.go 
+ 1472  cd
+ 1473  hello
+ 1474  cd
+ 1475  hello
+ 1476  whereis hello
+ 1477  cd
+ 1478  cd go
+ 1479  ls
+ 1480  cd src/
+ 1481  ls
+ 1482  cd hello/
+ 1483  go run hello.go 
+ 1484  go build hello.go 
+ 1485  sudo go build hello.go 
+ 1486  ls
+ 1487  ./hello.go
+ 1488  sudo ./hello.go
+ 1489  cd
+ 1490  hello
+ 1491  ls
+ 1492  cd go
+ 1493  ls
+ 1494  cd src/
+ 1495  ls
+ 1496  cd hello/
+ 1497  go install
+ 1498  go mod init
+ 1499  sudo go mod init
+ 1500  go mod init
+ 1501  ls
+ 1502  go mod tidy
+ 1503  go help modules
+ 1504  ls
+ 1505  go run
+ 1506  go run hello.go 
+ 1507  go build hello.go 
+ 1508  cd
+ 1509  go env
+ 1510  cd
+ 1511  mkdir hello
+ 1512  cd hello
+ 1513  ls
+ 1514  go run
+ 1515  go run hello.go 
+ 1516  nano go.mod
+ 1517  cat go.mod
+ 1518  ls
+ 1519  cd
+ 1520  go install hello
+ 1521  go install hello@latest
+ 1522  go install .hello@latest
+ 1523  go install ./hello@latest
+ 1524  go install golang.org/x/website/tour@latest
+ 1525  pwd
+ 1526  nano ~/.profile
+ 1527  cd hello
+ 1528  ls
+ 1529  go mod help
+ 1530  go mod init
+ 1531  go mod tidy
+ 1532  sudo go mod tidy
+ 1533  cd
+ 1534  whereis go
+ 1535  cd /usr/share/go
+ 1536  ls
+ 1537  cd
+ 1538  rm -r usr/local/go
+ 1539  rm -r /usr/share/go
+ 1540  rm -r /home/laurent/go
+ 1541  sudo rm -r /home/laurent/go
+ 1542  whereis go
+ 1543  sudo rm -r /usr/local/go
+ 1544  sudo rm -r /usr/share/go
+ 1545  sudo rm -r /usr/local/go/bin/go
+ 1546  whereis go
+ 1547  sudo rm -r /usr/share/man/man1/go.1.gz
+ 1548  whereis go
+ 1549  pwd
+ 1550  sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.19.3.linux-amd64.tar.gz
+ 1551  sudo rm -rf /usr/local/go && tar -C /usr/local -xzf ~/Downloads/go1.19.3.linux-amd64.tar.gz
+ 1552  sudo rm -rf /usr/local/go
+ 1553  sudo tar -C /usr/local -xzf ~/Downloads/go1.19.3.linux-amd64.tar.gz
+ 1554  emacs ~/.profile
+ 1555  go version
+ 1556  whereis go
+ 1557  history
+ 1558  source ~/.profile
+ 1559  go run
+ 1560  go run .
+ 1561  cd
+ 1562  cd hello
+ 1563  ls
+ 1564  nano go.mod
+ 1565  ls
+ 1566  nano hello.
+ 1567  nano hello.go 
+ 1568  cargo run .
+ 1569  go run .
+ 1570  nano hello.go 
+ 1571  go run .
+ 1572  go run hello.go 
+ 1573  ls
+ 1574  nano go.mod 
+ 1575  nano hello.go 
+ 1576  go run hello.go 
+ 1577  nano hello.go 
+ 1578  go run .
+ 1579  emacs hello.go 
+ 1580  ls
+ 1581  go run .
+ 1582  code .
+ 1583  go mod help
+ 1584  go mod why
+ 1585  go mod tidy
+ 1586  ls
+ 1587  nano go.mod 
+ 1588  go mod why
+ 1589  go run .
+ 1590  go version
+ 1591  tour
+ 1592  cd
+ 1593  cd go
+ 1594  ls
+ 1595  cd
+ 1596  cd pk
+ 1597  cd go/pkg/
+ 1598  ls
+ 1599  cd ..
+ 1600  pwd
+ 1601  ls
+ 1602  ls -als
+ 1603  mkdir src
+ 1604  cd src/
+ 1605  mkdir go-server
+ 1606  ls
+ 1607  cd go-server/
+ 1608  code .
+ 1609  ls
+ 1610  nano main.go 
+ 1611  ls
+ 1612  cd static/
+ 1613  ls
+ 1614  nano index.html 
+ 1615  nano form.html 
+ 1616  cd
+ 1617  tour
+ 1618  whereis go
+ 1619  go version
+ 1620  cd hello
+ 1621  ls
+ 1622  go run
+ 1623  go run hello.go 
+ 1624  cd ..
+ 1625  rm -r hello
+ 1626  cd hello
+ 1627  cd hello-world/
+ 1628  ls
+ 1629  cd
+ 1630  mkdir hello
+ 1631  cd hello
+ 1632  pwd
+ 1633  go mod example/hello
+ 1634  go mod init example/hello
+ 1635  ls
+ 1636  nano go.mod 
+ 1637  ls
+ 1638  emacs hello.go
+ 1639  go run .
+ 1640  go run hello.go 
+ 1641  emacs hello2.go
+ 1642  go run hello2.go 
+ 1643  nano hello.go 
+ 1644  go run hello.go 
+ 1645  go run .
+ 1646  ls
+ 1647  go run go.mod 
+ 1648  ls
+ 1649  go help
+ 1650  emacs hello.go 
+ 1651  ls
+ 1652  nano hello.go 
+ 1653  go run .
+ 1654  go run hello.go
+ 1655  rm hello2.go 
+ 1656  ls
+ 1657  go run .
+ 1658  go mod help
+ 1659  go mod tidy
+ 1660  go run . 
+ 1661  cd
+ 1662  mkdir gogreetings
+ 1663  cd gogreetings/
+ 1664  cd ..
+ 1665  rm -r gogreetings/
+ 1666  mkdir greetings
+ 1667  cd greetings/
+ 1668  ls
+ 1669  go mod init example/greetings
+ 1670  emacs greetings.go
+ 1671  ls
+ 1672  go run greetings.go 
+ 1673  go mod tidy
+ 1674  go run .
+ 1675  ls
+ 1676  nano greetings.go 
+ 1677  ls 
+ 1678  emacs greetings.go
+ 1679  go mod tidy
+ 1680  ls
+ 1681  nano greetings.go
+ 1682  emacs greetings.go 
+ 1683  ls
+ 1684  go run .
+ 1685  ls
+ 1686  emacs greetings.go 
+ 1687  nano greetings.go 
+ 1688  emacs greetings.go 
+ 1689  tour
+ 1690  cd
+ 1691  tour
+ 1692  anki
+ 1693  whereis anki
+ 1694  anki
+ 1695  near
+ 1696  nearcore
+ 1697  tour
+ 1698  history
+ 1699  python
+ 1700  killall emacs
+ 1701  git branch ilikefreestuff
+ 1702  git checkout ilikefreestuff 
+ 1703  git checkout -b ilikefreestuff
+ 1704  git checkout -help
+ 1705  pwd
+ 1706  npm start
+ 1707  pwd
+ 1708  git clone https://github.com/laurentHYZ/git-sticker
+ 1709  code
+ 1710  cd git-sticker/
+ 1711  codium
+ 1712  codium .
+ 1713  pwd
+ 1714  git add .
+ 1715  git commit - "laurent commit"
+ 1716  git commit -m "laurent commit"
+ 1717  git push origin ilikefreestuff
+ 1718  git checkout ilikefreestuff 
+ 1719  git push origin ilikefreestuff 
+ 1720  git checkout ilikefreestuff 
+ 1721  git push origin ilikefreestuff 
+ 1722  git checkout ilikefreestuff 
+ 1723  git push origin ilikefreestuff 
+ 1724  cd stickers/
+ 1725  touch laurenthyz.txt
+ 1726  nano laurenthyz.txt 
+ 1727  cd ..
+ 1728  git add .
+ 1729  git commit -m "asdfkjl "
+ 1730  git push origin ilikefreestuff 
+ 1731  git pull
+ 1732  git pull origin ilikefreestuff 
+ 1733  git config pull.rebase rebase
+ 1734  git config pull.rebase true
+ 1735  git pull
+ 1736  git pull origin ilikefreestuff 
+ 1737  git rebase --continue
+ 1738  ls
+ 1739  git checkout ilikefreestuff 
+ 1740  git add .
+ 1741  git commit -m "asdsdfasdfasdfsf"
+ 1742  git rebase
+ 1743  rm -fr ".git/rebase-merge"
+ 1744  git rebase
+ 1745  git rebase ilikefreestuff 
+ 1746  rm -fr ".git/rebase-merge"
+ 1747  git rebase ilikefreestuff 
+ 1748  git add .
+ 1749  git commit -m "asdf"
+ 1750  git push origin ilikefreestuff 
+ 1751  git pull
+ 1752  git pull origin ilikefreestuff 
+ 1753  git add .
+ 1754  git commit -m "asdf"
+ 1755  git pull origin ilikefreestuff 
+ 1756  git rebase --continue
+ 1757  pwd
+ 1758  git push origin ilikefreestuff 
+ 1759  git add .
+ 1760  git commit -m "asdfasdfasdf"
+ 1761  git push origin ilikefreestuff 
+ 1762  history
+ 1763  cd git-sticker/
+ 1764  git checkout ilikefreestuff 
+ 1765  git push origin ilikefreestuff 
+ 1766  git  pull
+ 1767  git pull
+ 1768  git rebase
+ 1769  code .
+ 1770  cd ..
+ 1771  rm -r git-sticker/
+ 1772  y
+ 1773  cd
+ 1774  git clone https://github.com/laurentHYZ/git-sticker
+ 1775  git checkout -b ilikefreestuff
+ 1776  cd git-sticker/
+ 1777  git checkout -b ilikefreestuff
+ 1778  code .
+ 1779  git push
+ 1780  git add .
+ 1781  git commit -m "asdf"
+ 1782  git push origin ilikefreestuff 
+ 1783  pwd
+ 1784  git checkout newbranch
+ 1785  git branch newbranch
+ 1786  git checkout newbranch 
+ 1787  git push --set-upstream origin newbranch 
+ 1788  git checkout
+ 1789  history
+ 1790  git branch thirdbranch
+ 1791  git checkout thirdbranch 
+ 1792  code .
+ 1793  git add .
+ 1794  git commit -m "asdf"
+ 1795  history
+ 1796  git push --set-upstream origin thirdbranch
+ 1797  killall firefox
+ 1798  cd auction && ./run.sh
+ 1799  cd
+ 1800  cd AleoWorkshop/
+ 1801  cd auction && ./run.sh
+ 1802  cd ..
+ 1803  cd basic_bank && ./run.sh
+ 1804  pwd
+ 1805  cd AleoWorkshop/
+ 1806  ls
+ 1807  cd basic_bank && ./run.sh
+ 1808  ls
+ 1809  leo account new
+ 1810  leo account new laurent
+ 1811  ./run.sh
+ 1812  leo account new laurent
+ 1813  leo account laeticia
+ 1814  leo account new laeticia
+ 1815  leo run issue
+ 1816  leo run
+ 1817  leo
+ 1818  cd helloworld
+ 1819  leo new helloworld
+ 1820  cd helloworld/
+ 1821  leo run
+ 1822  pwd
+ 1823  cd
+ 1824  git clone https://github.com/laurentHYZ/AleoWorkshop
+ 1825  cd AleoWorkshop/
+ 1826  cd basic_bank && ./run.sh
+ 1827  cd
+ 1828  cd helloworld/
+ 1829  ls
+ 1830  leo run
+ 1831  ls
+ 1832  cd
+ 1833  pwd
+ 1834  cd ..
+ 1835  pwd
+ 1836  cd
+ 1837  cd AleoWorkshop/
+ 1838  cd token/
+ 1839  leo build
+ 1840  cd ..
+ 1841  leo build
+ 1842  cd
+ 1843  cd leo
+ 1844  pwd
+ 1845  ls
+ 1846  cargo run
+ 1847  pwd
+ 1848  ls
+ 1849  cargo run
+ 1850  cd
+ 1851  cd hello
+ 1852  pwd
+ 1853  ls
+ 1854  cd ..
+ 1855  cd hello
+ 1856  ls
+ 1857  cd
+ 1858  leo new AleoHello
+ 1859  leo new aleohello
+ 1860  cd aleohello/
+ 1861  ls
+ 1862  leo --help
+ 1863  leo run main
+ 1864  leo run
+ 1865  leo run main
+ 1866  ls
+ 1867  cd src/
+ 1868  ls
+ 1869  leo run main
+ 1870  leo run
+ 1871  ls
+ 1872  cd ..
+ 1873  cargo run
+ 1874  leo clean
+ 1875  leo build
+ 1876  leo run
+ 1877  sudo apt-get update
+ 1878  emacs
+ 1879  ipython
+ 1880  jupyther
+ 1881  jupyter
+ 1882  jupyter --version
+ 1883  cd ~/.doom.d/
+ 1884  ls
+ 1885  doom sync
+ 1886  bin/doom sync
+ 1887  cd
+ 1888  cd ~/.emacs.d/
+ 1889  bin/doom sync
+ 1890  bin/doom doctor
+ 1891  bin/doom install
+ 1892  bin/doom sync
+ 1893  bin/doom doctor
+ 1894  doom sync
+ 1895  bin/doom sync
+ 1896  bin/doom purge -g
+ 1897  bin/doom doctor
+ 1898  bin/doom sync
+ 1899  $HOME
+ 1900  cd /home/laurent
+ 1901  pwd
+ 1902  ls -als
+ 1903  pwd
+ 1904  cd .git
+ 1905  pwd
+ 1906  cd .doom.d/
+ 1907  ls
+ 1908  nano init.el 
+ 1909  cd test
+ 1910  ls
+ 1911  ls -als
+ 1912  cd .git/
+ 1913  ls
+ 1914  ls 
+ 1915  ls -als
+ 1916  cd
+ 1917  pwd
+ 1918  ls -als
+ 1919  git status
+ 1920  rm -rf .git
+ 1921  cd ~/.emacs.d/
+ 1922  bin/doom doctor
+ 1923  bin/doom upgrade
+ 1924  cd
+ 1925  cd .config/
+ 1926  ls
+ 1927  cd
+ 1928  cd .config/
+ 1929  ls
+ 1930  cd
+ 1931  killall emacs
+ 1932  cd 
+ 1933  cd ~/.doom.d/
+ 1934  ls
+ 1935  ls -als
+ 1936  cd
+ 1937  cd ~/.emacs.d/
+ 1938  bin/doom sync
+ 1939  cd bin/
+ 1940  ls
+ 1941  boom doctor
+ 1942  doom doctor
+ 1943  doom sync
+ 1944  cd
+ 1945  sudo nano /etc/bluetooth/main.conf
+ 1946  sudo emacs /etc/bluetooth/main.conf
+ 1947  sudo gedit /etc/bluetooth/main.conf
+ 1948  sudo nano /etc/bluetooth/main.conf
+ 1949  sudo etc/init.d/bluetooth restart
+ 1950  etc/init.d/bluetooth restart
+ 1951  sudo rmmod btusb
+ 1952  sudo modprobe btusb
+ 1953  sudo rmmod btusb
+ 1954  sleep 1
+ 1955  sudo modprobe btusb
+ 1956  systemctl reboot
+ 1957  imba --version
+ 1958  npm install -g imba
+ 1959  yarn global add imba
+ 1960  npx imba create
+ 1961  pwd
+ 1962  mkdir imbatest
+ 1963  cd imbatest/
+ 1964  npx imba create
+ 1965  git init .
+ 1966  npx imba create
+ 1967  npm run dev
+ 1968  ls
+ 1969  cd src/
+ 1970  ls
+ 1971  nano video-player.imba
+ 1972  ls
+ 1973  nano index.html 
+ 1974  ls
+ 1975  pwd
+ 1976  ls
+ 1977  cd
+ 1978  imba --help
+ 1979  npx imba dev run
+ 1980  npx imba --help
+ 1981  npx imba run
+ 1982  pwd
+ 1983  cd imbatest/
+ 1984  npx imba run
+ 1985  npx imba serve
+ 1986  npx imba serve ./src/index.html
+ 1987  cd
+ 1988  cd ~/.emacs.d
+ 1989  bin/doom sync
+ 1990  bin/doom doctor
+ 1991  bin/doom sync
+ 1992  cd Downloads/
+ 1993  history
+ 1994  convert 7824.png 7824.jpg
+ 1995  convert dubaiphuket.png dubaiphuket.jpg
+ 1996  nano
+ 1997  convert frenchinfrance.png frenchinfrance.jpg
+ 1998  cd
+ 1999  sudo snap install authy
+ 2000  cd Documents/spudlyo/
+ 2001  ls
+ 2002  open git.html
+ 2003  ls -als
+ 2004  cd
+ 2005  whereis plantuml
+ 2006  plantuml
+ 2007  plantuml --help
+ 2008  cd
+ 2009  cd .emacs.d
+ 2010  ls
+ 2011  bin/doom sync
+ 2012  find / -type f -name "*.txt" -exec grep -il "chalkboard" {} +
+ 2013  find / -type f -name "*.txt" -exec grep -il "chalkboard" 
+ 2014  sudo locatedb
+ 2015  sudo updatedb
+ 2016  find / -type f -exec grep -H 'text-to-find-here' {} \;
+ 2017  find / -type f -exec fgrep -l 'chalkboard' {} \;
+ 2018  cd
+ 2019  find / -type f -exec fgrep -l 'chalkboard' {} \;
+ 2020  grep -l 'chalkboard' {} \;
+ 2021  grep -l 'chalkboard'
+ 2022  cd
+ 2023  cd blog
+ 2024  ls
+ 2025  hugo server -D
+ 2026  ls
+ 2027  nano blog.org 
+ 2028  cd
+ 2029  killall emacs
+ 2030  cd blog
+ 2031  ls
+ 2032  cd static/
+ 2033  ls
+ 2034  cd ox-hugo/
+ 2035  ls
+ 2036  cd ..
+ 2037  ls
+ 2038  cd content/
+ 2039  ls
+ 2040  hugo server -D
+ 2041  cd ..
+ 2042  hugo server -D
+ 2043  cd
+ 2044  rm -r blog
+ 2045  y
+ 2046  hugo new site blog
+ 2047  cd blog
+ 2048  ls
+ 2049  cd themes/
+ 2050  ls
+ 2051  cd ..
+ 2052  ls
+ 2053  git init
+ 2054  echo "# initial commit" >> README.md
+ 2055  git add README.md 
+ 2056  git commit -m "first commit"
+ 2057  git branch -M main
+ 2058  ls -als
+ 2059  ls
+ 2060  ls -als
+ 2061  ls
+ 2062  nano README.md 
+ 2063  git add README.md
+ 2064  git status
+ 2065  git add README.md
+ 2066  git commit -m "first commit"
+ 2067  git branch -M main
+ 2068  git remote add origin https://github.com/laurentHYZ
+ 2069  git push -u origin main
+ 2070  git remote add origin https://github.com/laurentHYZ.git
+ 2071* 
+ 2072  git remote add origin https://github.com/laurentHYZ/blog.git
+ 2073  git push -u origin main
+ 2074  git remote add origin https://github.com/laurentHYZ/blog.git
+ 2075  cd
+ 2076  rm -r blog
+ 2077  y
+ 2078  hugo new site blog
+ 2079  cd blog
+ 2080  git init
+ 2081  ls
+ 2082  ls -als
+ 2083  ls
+ 2084  ls -als
+ 2085  cd content/
+ 2086  ls
+ 2087  cd
+ 2088  pwd
+ 2089  cd blog/
+ 2090  ls
+ 2091  echo "# initial commit" >> README.md
+ 2092  ls
+ 2093  git add README.md 
+ 2094  git --help
+ 2095  git status
+ 2096  git commit -m "first commit"
+ 2097  git status
+ 2098  git branch -M main
+ 2099  git remote add origin https://github.com/laurentHYZ/blog.git
+ 2100  git push -u origin main
+ 2101  code .
+ 2102  git fetch https://github.com/laurentHYZ/blog.git
+ 2103  git push -u origin main
+ 2104  nano .git/config
+ 2105  git push -u origin main
+ 2106  cd
+ 2107  rm -r
+ 2108  cd
+ 2109  cd blog/
+ 2110  git remote -v
+ 2111  git remote set-url origin git@github.com:laurentHYZ/blog.git
+ 2112  git push -u origin main
+ 2113  git remote add origin https://laurentHYZ:access-token@github.com/laurentHYZ/blog.git
+ 2114  git remote add origin https://laurentHYZ:access-token@github.com/laurentHYZ/repo.git
+ 2115  cd
+ 2116  type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
+ 2117  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh -y
+ 2118  gh
+ 2119  gh --help
+ 2120  cd blog/
+ 2121  gh repo
+ 2122  gh user
+ 2123  gh me
+ 2124  history
+ 2125  gh me
+ 2126  git status
+ 2127  git push -u origin main
+ 2128  git remote
+ 2129  git --help
+ 2130  ls
+ 2131  nano README.md 
+ 2132  git commit -m "initial commit"
+ 2133  history
+ 2134  git remote
+ 2135  git remote -v
+ 2136  git push 
+ 2137  git push -u origin main
+ 2138  git fetch ssh://github.com/laurentHYZ/blog.git
+ 2139  cd
+ 2140  nano ~/.ssh/known_hosts
+ 2141  git fetch ssh://github.com/laurentHYZ/blog.git
+ 2142  nano ~/.ssh/known_hosts
+ 2143  emacs ~/.ssh/known_hosts
+ 2144  ssh-keygen -f "/home/laurent/.ssh/known_hosts" -R "github.com"
+ 2145  git fetch ssh://github.com/laurentHYZ/blog.git
+ 2146  cd blog
+ 2147  git fetch ssh://github.com/laurentHYZ/blog.git
+ 2148  git push -u origin main
+ 2149  cd
+ 2150  rm .ssh/known_hosts
+ 2151  git push -u origin main
+ 2152  cd blog/
+ 2153  git push -u origin main
+ 2154  git pull
+ 2155  git pull origin main
+ 2156  git fetch origin main
+ 2157  ls -als
+ 2158  git push -u origin main
+ 2159  git branch -M master
+ 2160  cd
+ 2161  rm -r blog/
+ 2162  gh repo clone laurentHYZ/blog
+ 2163  hugo new site blog
+ 2164  hugo server
+ 2165  cd blog/
+ 2166  hugo server
+ 2167  git push -u origin main
+ 2168  git push -u origin ssh://github.com/laurentHYZ/blog.git
+ 2169  git init
+ 2170  git push -u origin master
+ 2171  git status
+ 2172  git push -u origin master
+ 2173  git push -u ssh://github.com/laurentHYZ/blog
+ 2174  git push --set-upstream ssh://github.com/laurentHYZ/blog master
+ 2175  git push --set-upstream ssh://github.com/laurentHYZ/blog.git master
+ 2176  echo "first commit to the readme" >> README.md
+ 2177  ls
+ 2178  git add README.md 
+ 2179  git commit -m "initial commit" 
+ 2180  git push --set-upstream ssh://github.com/laurentHYZ/blog.git master
+ 2181  git push --set-upstream ssh://github.com/laurentHYZ/blog master
+ 2182  git push -u origin master
+ 2183  cd
+ 2184  cd .ssh/
+ 2185  ls
+ 2186  ssh-keygen
+ 2187  ls
+ 2188  nano /home/laurent/.ssh/id_rsa.pub
+ 2189  emacs /home/laurent/.ssh/id_rsa.pub
+ 2190  cd
+ 2191  gh auth login
+ 2192  cd blog
+ 2193  gh auth login
+ 2194  cd
+ 2195  gh ssh-key add ~/.ssh/id_ed25519.pub
+ 2196  pwd
+ 2197  eval "$(ssh-agent -s)"
+ 2198  history
+ 2199  cd ~/.ssh/
+ 2200  ls
+ 2201  nano id_rsa.pub 
+ 2202  cd
+ 2203  cd blog
+ 2204  ls
+ 2205  git status
+ 2206  ls
+ 2207  echo "some more commit" >> README.md 
+ 2208  git add .
+ 2209  git commit -m "second commit"
+ 2210  git status
+ 2211  git --help
+ 2212  git branch
+ 2213  git push -u origin master
+ 2214  cd
+ 2215  cd blog
+ 2216  git remote add origin git@github.com:laurentHYZ/blog.git
+ 2217  git remote -v
+ 2218  git push -u origin master
+ 2219  hugo server
+ 2220  ls
+ 2221  cd themes/
+ 2222  ls
+ 2223  cd ..
+ 2224* 
+ 2225  echo "theme = 'ananke'" >> config.toml
+ 2226  hugo server
+ 2227  echo "theme = 'loveit'" >> config.toml
+ 2228  git submodule add git clone https://themes.gohugo.io/themes/loveit/ themes/loveit
+ 2229  git submodule add https://themes.gohugo.io/themes/loveit/ themes/loveit
+ 2230  git submodule add https://github.com/dillonzq/LoveIt themes/loveit
+ 2231  history
+ 2232  echo "theme = 'loveit'" >> config.toml
+ 2233  hugo server
+ 2234  ls
+ 2235  nano config.toml 
+ 2236  ls
+ 2237  hugo serve
+ 2238  history
+ 2239  git push -u origin master
+ 2240  git add .
+ 2241  git commit -m "added the loveit style"
+ 2242  git push -u origin master
+ 2243  history
+ 2244  history >> history.txt
