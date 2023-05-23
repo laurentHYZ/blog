@@ -276,3 +276,11 @@ Someting new
   :END:
 
 added 7th post
+* 10th post
+:PROPERTIES:
+  :EXPORT_FILE_NAME: my-tenth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+this is a section that we might or might not add to the blog.
+It will be pushed to the branch "bee"
