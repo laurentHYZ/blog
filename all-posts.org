@@ -264,7 +264,15 @@ Someting new
   :END:
 * 8th post
  :PROPERTIES:
-  :EXPORT_FILE_NAME: my-seventh-post
+  :EXPORT_FILE_NAME: my-eigth-post
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
+* 9th post
+ :PROPERTIES:
+  :EXPORT_FILE_NAME: my-nineth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+
+added 7th post
