@@ -1,0 +1,67 @@
+[33mcommit 3d1e734a9938b8017a03ac8b67b8c386c5cacdb1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 16:37:36 2023 +0700
+
+    added second post
+
+[33mcommit 786b53366255e16b43fcfa17a88fa8b6ef4d98a6[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 16:28:25 2023 +0700
+
+    ran hugo
+
+[33mcommit 05c44c5128f16cb476470890bf533c1770041644[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 16:22:01 2023 +0700
+
+    published my first post
+
+[33mcommit f50bb217ad2bcabdf8f18ed76995c5fb4cee7655[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 16:12:00 2023 +0700
+
+    Create hugo.yml
+    
+    nothing else
+
+[33mcommit 06dac323463b176ddec921585d7f6330fb4a4cab[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 16:08:15 2023 +0700
+
+    deleted 2 workflows
+
+[33mcommit d7c1416ebb9c53734f04d4fc2d9222a88ad713dd[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 15:58:30 2023 +0700
+
+    add workflow
+
+[33mcommit 28b60b2dcc2f1bd446b92625498df021fef34130[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 15:51:55 2023 +0700
+
+    Create hugo.yml
+
+[33mcommit 68e49d7b5524b37a0c4b508634089473cc7035ab[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 15:29:11 2023 +0700
+
+    added my first post
+
+[33mcommit fe473476048e10614489a23d0561ecff627630cc[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 15:07:40 2023 +0700
+
+    added the loveit style
+
+[33mcommit 1126c2b8634abed3a0966e0a1a8fb5379223cfba[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Fri May 5 14:37:11 2023 +0700
+
+    second commit
+
+[33mcommit 029e99207509b2185092fc2d6fc53a7bf7f28b7e[m
+Author: laurent <laurent_pinson@hotmail.com>
+Date:   Thu May 4 20:28:56 2023 +0700
+
+    initial commit

@@ -1,0 +1,258 @@
+#+HUGO_BASE_DIR: ~/blog
+#+HUGO_SECTION: posts
+
+* My 3rd Post
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: my-third-post
+  :EXPORT_DATE: 2023-05-06
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+
+This is my first post using ox-hugo!
+
+* My 4th Post
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: my-fourth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+This is my second post using ox-hugo!
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
+* my 6th post
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: my-sixth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+something
+
+* my 5th post
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: my-fifth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+  nothing here either
+Someting new
