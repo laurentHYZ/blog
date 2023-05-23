@@ -292,3 +292,10 @@ It will be pushed to the branch "bee"
   :END:
 
 this section might be part of the final document, not sure yet.
+* 15th post
+:PROPERTIES:
+  :EXPORT_FILE_NAME: my-fifteenth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+some more title
