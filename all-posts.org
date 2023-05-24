@@ -343,12 +343,13 @@ this section might be part of the final document, not sure yet.
 
 
 * 17th post
+
 :PROPERTIES:
   :EXPORT_FILE_NAME: my-seventeenth-post
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
-16th post added from within github.  
+16th post added from within github.
 
 /Here is another change that we should see using diff, but this time we do not want to add it changes to be committed./
 
@@ -359,3 +360,10 @@ this section might be part of the final document, not sure yet.
 
 final thank you message.
 adding something else here
+
+* 18th post
+:PROPERTIES:
+  :EXPORT_FILE_NAME: my-seventeenth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
