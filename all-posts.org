@@ -277,6 +277,7 @@ Someting new
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
 
+请确认一下此翻译是否准确
 added 7th post
 * 10th post
 :PROPERTIES:
@@ -293,6 +294,7 @@ It will be pushed to the branch "bee"
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
 
+请确认一下此翻译是否准确
 this section might be part of the final document, not sure yet.
 * 15th post needs french reviewer to validate change
 :PROPERTIES:
@@ -323,3 +325,5 @@ this section might be part of the final document, not sure yet.
 16th post added from within github.  
 
 /Here is another change that we should see using diff, but this time we do not want to add it changes to be committed./
+
+请确认一下此翻译是否准确
