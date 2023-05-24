@@ -8,6 +8,7 @@
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
 
+ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 This is my first post using ox-hugo!
 
 * My 4th Post
@@ -27,6 +28,7 @@ This is my second post using ox-hugo!
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
 
+ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 something
 something
 something
@@ -301,6 +303,7 @@ this section might be part of the final document, not sure yet.
 /some more title/
 /something was added here from within the github file./
 
+ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 * 16th post needs thai reviewer to validate change
 :PROPERTIES:
   :EXPORT_FILE_NAME: my-sixteen-post
