@@ -10,7 +10,8 @@
 
 我的翻译
 ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
-This is my first post using ox-hugo!
+voici mon premier post en francais.
+
 
 * My 4th Post
   :PROPERTIES:
@@ -251,6 +252,11 @@ something
 something
 something
 
+
+une phrase en francais
+
+一句中文的
+
 * my 5th post
   :PROPERTIES:
   :EXPORT_FILE_NAME: my-fifth-post
@@ -265,6 +271,9 @@ Someting new
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
+
+une phrase en francais
+
 * 8th post
  :PROPERTIES:
   :EXPORT_FILE_NAME: my-eigth-post
@@ -278,6 +287,8 @@ Someting new
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
 
+
+une phrase en francais
 请确认一下此翻译是否准确
 added 7th post
 * 10th post
@@ -306,6 +317,7 @@ this section might be part of the final document, not sure yet.
 /some more title/
 /something was added here from within the github file./
 
+一句中文的
 ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 * 16th post needs thai reviewer to validate change
 :PROPERTIES:
