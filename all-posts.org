@@ -366,21 +366,14 @@ adding some more to the 17th post
 
 
 
-* 18th post
-:PROPERTIES:
-<<<<<<< HEAD
-  :EXPORT_FILE_NAME: my-seventeenth-post
-=======
-  :EXPORT_FILE_NAME: my-eighteenth-post
-  :EXPORT_DATE: 2023-05-07
-  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
-  :END:
-this is still part of the 18th post
 * 19th post
 
 :PROPERTIES:
   :EXPORT_FILE_NAME: my-nineteenth-post
+<<<<<<< HEAD
 >>>>>>> 6c477a1 (fixup! adding 18th post)
+=======
+>>>>>>> 1c59136 (adding 19th post)
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
