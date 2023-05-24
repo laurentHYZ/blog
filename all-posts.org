@@ -11,8 +11,17 @@
 我的翻译
 ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 voici mon premier post en francais.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 67b41d5 (french: added french translation)
 
+encore plus de francais
+encore plus de francais
+encore plus de francais
+encore plus de francais
+encore plus de francais
+encore plus de francais
 * My 4th Post
   :PROPERTIES:
   :EXPORT_FILE_NAME: my-fourth-post
