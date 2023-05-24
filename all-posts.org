@@ -298,8 +298,8 @@ this section might be part of the final document, not sure yet.
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
-some more title
-something was added here from within the github file.
+/some more title/
+/something was added here from within the github file./
 
 * 16th post needs thai reviewer to validate change
 :PROPERTIES:
@@ -307,8 +307,8 @@ something was added here from within the github file.
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
-made a small change here. You are supposed to see that when using the diff command of git and add it to changes to be committed.
-16th post added from within github.  
+/made a small change here. You are supposed to see that when using the diff command of git and add it to changes to be committed./
+/16th post added from within github.  /
 
 
 * 17th post
@@ -319,4 +319,4 @@ made a small change here. You are supposed to see that when using the diff comma
   :END:
 16th post added from within github.  
 
-Here is another change that we should see using diff, but this time we do not want to add it changes to be committed.
+/Here is another change that we should see using diff, but this time we do not want to add it changes to be committed./
