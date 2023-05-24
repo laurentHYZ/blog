@@ -11,10 +11,6 @@
 我的翻译
 ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 voici mon premier post en francais.
-<<<<<<< HEAD
-
-=======
->>>>>>> 67b41d5 (french: added french translation)
 
 encore plus de francais
 encore plus de francais
@@ -38,6 +34,14 @@ This is my second post using ox-hugo!
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
+You are an emacs magit expert.
+I want to use magit to push changes to origin, and I want to force that push. What is the keybinding for that?
+
+The keybinding to push changes to origin and force push is =P -f=. This will invoke the "Push popup" of Magit, where you can select the branch you want to push and add the force option.
+
+***
+
+
 
 ด้หด้ห้้ห้้ไ้้้้้้ด้้ห้้ฟ้้ห้้ก้ด้้ดห้ก้ด้ห้ดกก้ด้
 something
@@ -349,3 +353,9 @@ this section might be part of the final document, not sure yet.
 /Here is another change that we should see using diff, but this time we do not want to add it changes to be committed./
 
 请确认一下此翻译是否准确
+
+
+
+
+final thank you message.
+adding something else here
