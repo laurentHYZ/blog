@@ -341,6 +341,7 @@ this section might be part of the final document, not sure yet.
 /made a small change here. You are supposed to see that when using the diff command of git and add it to changes to be committed./
 /16th post added from within github.  /
 
+I am adding some more stuff to the initial 16th post commit.
 
 * 17th post
 
@@ -363,7 +364,19 @@ adding something else here
 
 * 18th post
 :PROPERTIES:
+<<<<<<< HEAD
   :EXPORT_FILE_NAME: my-seventeenth-post
+=======
+  :EXPORT_FILE_NAME: my-eighteenth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+this is still part of the 18th post
+* 19th post
+
+:PROPERTIES:
+  :EXPORT_FILE_NAME: my-nineteenth-post
+>>>>>>> 6c477a1 (fixup! adding 18th post)
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
