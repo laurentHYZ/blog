@@ -310,6 +310,13 @@ something was added here from within the github file.
 16th post added from within github.  
 
 
+* 17th post
+:PROPERTIES:
+  :EXPORT_FILE_NAME: my-seventeenth-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+16th post added from within github.  
 
 
 
