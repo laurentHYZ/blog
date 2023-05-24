@@ -292,7 +292,7 @@ It will be pushed to the branch "bee"
   :END:
 
 this section might be part of the final document, not sure yet.
-* 15th post
+* 15th post needs french reviewer to validate change
 :PROPERTIES:
   :EXPORT_FILE_NAME: my-fifteenth-post
   :EXPORT_DATE: 2023-05-07
@@ -301,7 +301,7 @@ this section might be part of the final document, not sure yet.
 some more title
 something was added here from within the github file.
 
-* 16th post
+* 16th post needs thai reviewer to validate change
 :PROPERTIES:
   :EXPORT_FILE_NAME: my-sixteen-post
   :EXPORT_DATE: 2023-05-07
