@@ -307,6 +307,7 @@ something was added here from within the github file.
   :EXPORT_DATE: 2023-05-07
   :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
   :END:
+made a small change here. You are supposed to see that when using the diff command of git and add it to changes to be committed.
 16th post added from within github.  
 
 
@@ -318,14 +319,4 @@ something was added here from within the github file.
   :END:
 16th post added from within github.  
 
-
-
-
-
-
-
-
-
-
-
-
+Here is another change that we should see using diff, but this time we do not want to add it changes to be committed.
