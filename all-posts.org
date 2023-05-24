@@ -300,3 +300,25 @@ this section might be part of the final document, not sure yet.
   :END:
 some more title
 something was added here from within the github file.
+
+* 16th post
+:PROPERTIES:
+  :EXPORT_FILE_NAME: my-sixteen-post
+  :EXPORT_DATE: 2023-05-07
+  :EXPORT_HUGO_TAGS: emacs org-mode ox-hugo
+  :END:
+16th post added from within github.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
